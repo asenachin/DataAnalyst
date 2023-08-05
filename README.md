@@ -1,2 +1,6 @@
 # DataAnalyst
-My Data Analysis Projects
+Мои проекты по анализу данных и машинному обучению
+<table>
+<tr><th>Название проекта</th><th>Описание</th><th>Ключевые слова</th></tr>
+<tr><td>данные</td><td>данные</td><td>данные</td></tr>
+</table>
