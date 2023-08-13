@@ -4,6 +4,18 @@
 <table>
 
 <tr><th>Название проекта</th><th>Описание</th><th>Ключевые слова</th></tr>
+
+<tr>
+  <td> 
+    <a href="https://nbviewer.org/gist/asenachin/f764c8dd24c66df4d75eda7cdcba3a74"> Поиск упоминаний о Yandex Pay 
+    </a> 
+  </td>
+  <td> Недавно сервис Yandex Pay стал доступен на портале «Госуслуг». Найдём упоминания этого события в соцсетях и СМИ, опубликованные 18 июля 2022 года. Пример публикации: https://rb.ru/news/yandex-pay/.
+  </td>
+  <td> data analyst, аналитик данных, аналитик, requests, BeautifulSoup, pandas, plotly 
+  </td>
+</tr>
+
 <tr>
   <td> 
     <a href="https://nbviewer.org/gist/asenachin/4035c80f8250a349b281046aa1a72110"> Исследование надёжности заёмщиков — анализ банковских данных 
