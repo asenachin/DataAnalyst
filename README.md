@@ -124,7 +124,7 @@
       <li> проанализированы основные признаки, наиболее сильно влияющие на отток. </li>
     </ul>
   </td>
-  <td> data analyst, аналитик данных, data scientist 
+  <td> data analyst, аналитик данных, machine learning 
   </td>
 </tr>
 
