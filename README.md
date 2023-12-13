@@ -19,7 +19,7 @@
   <td> 
     <a href="https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz"> Дашборд в Tableau </a> 
   </td>
-  <td> Уровень NPS клиентов из России одной из крупных телекоммуникационных компаний стран СНГ 
+  <td> Уровень NPS (индекса потребительской лояльности) клиентов из России одной из крупных телекоммуникационных компаний стран СНГ 
   </td>
   <td> Tableau, визуализация данных </td>
 </tr>
