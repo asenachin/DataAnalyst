@@ -5,6 +5,17 @@
 
 <tr><th>Название проекта</th><th>Описание</th><th>Ключевые слова</th></tr>
 
+
+<tr>
+  <td> 
+    <a href="https://disk.yandex.ru/i/UmRidIw7bbiRug"> Презентация в LibreOffice Impress </a> 
+  </td>
+  <td> В презентации приводятся результаты анализа поведения пользователей в мобильном приложении интернет коммерции. 
+  </td>
+  <td> LibreOffice Impress, презентация, визуализация данных </td>
+</tr>
+
+
 <tr>
   <td> 
     <a href="https://onedrive.live.com/view.aspx?resid=3AFC56F50C812287%2139686&authkey=!AJ5No7G4mdsMscg"> Дашборд в MS Excel </a> 
