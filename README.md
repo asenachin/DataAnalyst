@@ -14,6 +14,18 @@
   <td> MS Excel, аналитика продаж, визуализация данных </td>
 </tr>
 
+
+<tr>
+  <td> 
+    <a href="https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz"> Дашборд в Tableau </a> 
+  </td>
+  <td> Уровень NPS клиентов из России одной из крупных телекоммуникационных компаний стран СНГ 
+  </td>
+  <td> Tableau, визуализация данных </td>
+</tr>
+
+
+
 <tr>
   <td> 
     <a href="https://nbviewer.org/gist/asenachin/365b7af890c59845b91ddfe731887c58"> Исследования рынка общепита в Москве для принятия решения об
