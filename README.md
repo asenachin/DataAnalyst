@@ -28,6 +28,17 @@
 
 <tr>
   <td> 
+    <a href="https://disk.yandex.ru/i/8VC4JPzGul-4rw"> Дашборд в Power BI </a> 
+  </td>
+  <td> Визуализирован отчёт по продажам  и конверсиям CR сделок в оплату из таблицы MS Excel. 
+  </td>
+  <td> Power BI, аналитика продаж, визуализация данных </td>
+</tr>
+
+
+
+<tr>
+  <td> 
     <a href="https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz"> Дашборд в Tableau </a> 
   </td>
   <td> Уровень NPS (индекса потребительской лояльности) клиентов из России одной из крупных телекоммуникационных компаний стран СНГ 
