@@ -31,7 +31,7 @@
     <a href="https://disk.yandex.ru/i/8VC4JPzGul-4rw"> Дашборд в Power BI </a> 
   </td>
   <td> Визуализирован отчёт по продажам  и конверсиям CR сделок в оплату из таблицы MS Excel 
-       <a href="https://docs.google.com/spreadsheets/d/1_Xn2m_8Rvz9ocoW-h1zXl14dMuFAF01JcsU05BH1P-c/edit?usp=sharing"> (конверсия по менеджерам). </a> 
+      ( <a href="https://docs.google.com/spreadsheets/d/1_Xn2m_8Rvz9ocoW-h1zXl14dMuFAF01JcsU05BH1P-c/edit?usp=sharing"> конверсия по менеджерам </a> ).
   </td>
   <td> Power BI, аналитика продаж, визуализация данных </td>
 </tr>
