@@ -38,7 +38,15 @@
   <td> Power BI, аналитика продаж, визуализация данных </td>
 </tr>
 
-
+<tr>
+  <td> 
+    <a href="https://docs.google.com/spreadsheets/d/1aRR-Ibu1Eorik2ubiVDrf6nHoEEYnz8S/edit?usp=sharing&ouid=100384629976165750384&rtpof=true&sd=true"> 
+    Расчёт юнит-экономики по бренду SLOT </a> 
+  </td>
+  <td> Проведен расчёт юнит-экономики за неделю по выбранным товарам бренда SLOT компании Brands Corner, продаваемых на Wildberries.
+  </td>
+  <td> MS Excel, аналитика продаж, юнит-экономика </td>
+</tr>
 
 <tr>
   <td> 
