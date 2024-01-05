@@ -1,20 +1,9 @@
-### DataAnalyst
+### practicum_projects
 Мои проекты по анализу данных и машинному обучению:
 
 <table>
 
 <tr><th>Название проекта</th><th>Описание</th><th>Ключевые слова</th></tr>
-
-
-<tr>
-  <td> 
-    <a href="https://disk.yandex.ru/i/UmRidIw7bbiRug"> Презентация в LibreOffice Impress </a> 
-  </td>
-  <td> В презентации приводятся результаты анализа поведения пользователей в мобильном приложении интернет коммерции. 
-  </td>
-  <td> LibreOffice Impress, презентация, визуализация данных </td>
-</tr>
-
 
 <tr>
   <td> 
