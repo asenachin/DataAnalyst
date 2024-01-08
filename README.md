@@ -8,19 +8,6 @@
 
 <tr>
   <td> 
-    <a href="https://disk.yandex.ru/i/8VC4JPzGul-4rw"> Дашборд в Power BI </a> 
-  </td>
-  <td> Визуализирован отчёт по продажам  и конверсиям CR сделок в оплату из таблицы MS Excel 
-      (<a href="https://docs.google.com/spreadsheets/d/1_Xn2m_8Rvz9ocoW-h1zXl14dMuFAF01JcsU05BH1P-c/edit?usp=sharing">посмотреть исходный файл</a>). 
-      Проанализировать данные из таблицы MS Excel можно, но согласитесь, что их сначала необходимо изучить и очень хорошо подумать над ними, а при визуализации 
-      отчета всё сразу становится ясно и понятно.
-  </td>
-  <td> Power BI, аналитика продаж, визуализация данных </td>
-</tr>
-
-
-<tr>
-  <td> 
     <a href="https://public.tableau.com/app/profile/andrew.senachin6889/viz/telecomm_dash_viz/Dash_Telecomm_Viz"> Дашборд в Tableau </a> 
   </td>
   <td> Уровень NPS (индекса потребительской лояльности) клиентов из России одной из крупных телекоммуникационных компаний стран СНГ 
